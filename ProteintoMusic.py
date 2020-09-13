@@ -30,7 +30,7 @@ def Protein_to_note(AAnote):
         note = midi.B_5
     elif AAnote == "A": #Alanine
         note = midi.C_6 
-    elif AAnote == "R": #Asparagine
+    elif AAnote == "N": #Asparagine
         note = midi.D_6
     elif AAnote == "D": #Aspartic acid
         note = midi.E_6
